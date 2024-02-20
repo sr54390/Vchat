@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58eb491e-dc99-4571-981a-fd30655f05b6" name="Changes" comment="" />
+    <list default="true" id="58eb491e-dc99-4571-981a-fd30655f05b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/models/company.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20240220115212_create_company.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20240220115505_add_company_reference_to_users.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vchat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vchat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
     "ruby.rails.projectView.checked": "true",
     "ruby.structure.view.model.defaults.configured": "true",
     "vue.rearranger.settings.migration": "true"
@@ -120,6 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708342955806</updated>
       <workItem from="1708342956896" duration="2082000" />
+      <workItem from="1708429382579" duration="994000" />
     </task>
     <servers />
   </component>
